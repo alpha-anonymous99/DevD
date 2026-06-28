@@ -8,10 +8,21 @@ DevD is designed with a premium startup aesthetic, utilizing dark mode, sleek gl
 
 ## Live Demo & Contracts
 
+*   **Live Demo URL:** [DevD Web App (Vercel)](https://devd-stellar.vercel.app)
 *   **Smart Contract Address:** `CDKCOKAMDDJIXHFTTVUY5GJPZRCC5645NKZ544WPI253RMYFXFH7T4KI`
 *   **Stellar Laboratory Contract Link:** [Stellar Lab (Testnet)](https://lab.stellar.org/r/testnet/contract/CDKCOKAMDDJIXHFTTVUY5GJPZRCC5645NKZ544WPI253RMYFXFH7T4KI)
 *   **Deployment Transaction Hash:** `f67a7e4c5e118243dbf7bd9bbfc2eeae425ac919acbd883608a8ec7f52fecb40`
 *   **Explorer Link:** [Stellar.Expert (Testnet)](https://stellar.expert/explorer/testnet/tx/f67a7e4c5e118243dbf7bd9bbfc2eeae425ac919acbd883608a8ec7f52fecb40)
+
+### Screenshots
+
+| Wallet Connected | Balance Display |
+| :---: | :---: |
+| ![Wallet Connected Placeholder](https://via.placeholder.com/400x250?text=Freighter+Wallet+Connected) | ![Balance Display Placeholder](https://via.placeholder.com/400x250?text=Connected+Wallet+Balance) |
+
+| Successful Transaction | Transaction Feedback |
+| :---: | :---: |
+| ![Successful Transaction Placeholder](https://via.placeholder.com/400x250?text=Testnet+Transaction+Success) | ![Transaction Feedback Placeholder](https://via.placeholder.com/400x250?text=Real-time+Transaction+Feedback) |
 
 ---
 
